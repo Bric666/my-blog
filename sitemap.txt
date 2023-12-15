@@ -34,9 +34,9 @@ https://bricawa.com/tags/%E5%8D%9A%E5%AE%A2/
 https://bricawa.com/tags/Hexo/
 https://bricawa.com/tags/Clash/
 https://bricawa.com/tags/Docker/
+https://bricawa.com/tags/Gulp/
 https://bricawa.com/tags/%E5%B0%8F%E7%B1%B3Mix2s/
 https://bricawa.com/tags/Magisk/
-https://bricawa.com/tags/Gulp/
 https://bricawa.com/tags/%E5%BB%BA%E7%AB%99/
 https://bricawa.com/tags/%E6%9C%AA%E6%88%90%E5%B9%B4/
 https://bricawa.com/tags/CloudFlare/

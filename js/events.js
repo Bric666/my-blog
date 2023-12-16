@@ -8,8 +8,8 @@ HTMLElement.prototype.wrap=function(e){this.parentNode.insertBefore(e,this),this
 |     _| |_     | | | \\_/ |, | || \\__/  |      |
 |    |_____|   [___]'.__.'_/[___]'.__.;__]     |
 |                                              |
-|           Powered by Hexo x Fluid            |
-|         GitHub: https://git.io/JqpVD         |
+|                                              |
+|      Powered by Hexo x Fluid x BricRoot      |
 |                                              |
 ------------------------------------------------
     `)}};
